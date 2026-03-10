@@ -1,4 +1,4 @@
-# Unofficial Facebook Messenger API
+# Unofficial Facebook Messenger APIs
 
 <a href="https://www.npmjs.com/package/meta-messenger.js"><img alt="npm version" src="https://img.shields.io/npm/v/meta-messenger.js.svg?style=flat-square"></a>
 <a href="https://www.npmjs.com/package/meta-messenger.js"><img src="https://img.shields.io/npm/dm/meta-messenger.js.svg?style=flat-square" alt="npm downloads"></a>
